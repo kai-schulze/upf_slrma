@@ -8,7 +8,7 @@
 	clear all
 	version 15
 	set more off
-	cd "C:\Users\Kaischulze\Google Drive\1. PhD\1. Projects\1. First project - Scope review UPF\June_2018\Submission Process\Github Upload" // Insert file path to folder in which "schulze2019data.xlsx" is saved.
+	cd "" // Insert file path to folder in which "schulze2019data.xlsx" is saved.
 	
 	*// Note: If you have any questions regarding the code feel free to contact me:
 	*// ks727@medschl.ac.cam.uk
